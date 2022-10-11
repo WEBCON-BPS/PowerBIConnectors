@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Connectors/.vs/WebConConnector
+/Connectors/WebConConnector/bin/Debug
+/Connectors/WebConConnector/obj/Debug
+/Connectors/WebConOauthCustomConnector/bin/Debug
+/Connectors/WebConOauthCustomConnector/obj/Debug
+/Connectors/WebConConnectorAppContext/bin/Debug
+/Connectors/WebConConnectorAppContext/obj/Debug
+/Connectors/WebConConnectorUserContext/bin/Debug
+/Connectors/WebConConnectorUserContext/obj/Debug
+/Connectors/UpgradeLog.htm
